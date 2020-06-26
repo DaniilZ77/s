@@ -40,7 +40,8 @@ textarea,
 input[type=text],
 input[type=button],
 input[type=submit],
-input[type=search] {
+input[type=search],
+input[type=image] {
 	-webkit-appearance: none;
 	border-radius: 0
 }
